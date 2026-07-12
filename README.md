@@ -1,8 +1,6 @@
 # Customer Support Ticket Classification and Priority Prediction
 
 ## Project Overview
-This project is developed as part of the Future Interns Machine Learning Internship (Task 2).
-
 The system uses Natural Language Processing (NLP) and Machine Learning to classify customer support tickets into different categories and predict their priority levels.
 
 ## Features
@@ -40,3 +38,11 @@ FUTURE_ML_02/
 │── requirements.txt
 │── README.md
 │── screenshots/
+
+## Author
+Lavanya M G
+BE Student|Machine Learning Intern
+Jawaharlal Nehru National College Of Engineering
+
+## Acknowledgement
+This project was completed as part of the Future Interns Machine Learning Internship Program
